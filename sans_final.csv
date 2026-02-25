@@ -447,6 +447,8 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,GasterBlaster,0,100,0,330,300,850,1.366,0.1;,2
 0,GasterBlaster,0,100,0,330,300,860,1.366,0.1;,2
 
+0,DamagePlayer,-29,,,
+
 0,SansAnimation,Idle,,,,,,,
 0.4,HeartMode,0,,,,,,,
 0,SansTorso,shrug,,,,,,,
@@ -646,6 +648,7 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
 10,endattack,,,,,,,,
+
 
 
 
